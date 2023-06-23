@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+       "lib": [
+          "esnext",
+          "ES2017.Object",
+          "DOM"
+       ],
+       "target": "es2017",
+       "module": "commonjs",
+       "moduleResolution": "node",
+       "outDir": "./build",
+       "esModuleInterop": true,
+       "resolveJsonModule": true,
+       "downlevelIteration": true,
+       "emitDecoratorMetadata": true,
+       "experimentalDecorators": true,
+       "sourceMap": true
+    }
+ }
